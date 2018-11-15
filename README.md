@@ -10,7 +10,7 @@ Sign in page
 
 
 Register page
-![Register](/images/register.png)
+![Register](/images/registerPage.png)
 
 Single picture 
 ![Single](/images/single.png)
