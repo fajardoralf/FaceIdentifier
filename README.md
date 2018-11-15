@@ -1,7 +1,19 @@
 # FaceIdentifyer
 Web app that identifies persons in your picture
 
+Using Clarifai's api to identify pictures.
 
-The sign in page
+
+
+Sign in page
 ![SignIn](/images/signin.png)
-Format: ![Alt Text](url)
+
+
+Register page
+![Register](/images/register.png)
+
+Single picture 
+![Single](/images/single.png)
+
+Multiple picture 
+![Multiple](/images/multiple.png)
